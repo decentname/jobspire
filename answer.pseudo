@@ -1,0 +1,8 @@
+# import random
+
+# def getName(name):
+
+#     GeneratedNumber = random.randint(6,15)
+
+#     print name + " " + str(GeneratedNumber)
+
